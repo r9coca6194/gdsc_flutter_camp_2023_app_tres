@@ -1,4 +1,4 @@
-# gdsc_flutter_camp_2023_app_tres
+# GDSC - Flutter Camp 2023 - App Tres
 
 A new Flutter project.
 
